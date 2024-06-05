@@ -1,0 +1,12 @@
+var a=22;
+var b=12;
+var add =a+b;
+var sub= a-b;
+var mul=a*b;
+var div=a/b;
+var rem= a%b;
+console.log("Addition->" +add);
+console.log("Substraction->" +sub);
+console.log("Multiplication->" +mul);
+console.log("Division->" +div);
+console.log("Remainder->" +rem);
